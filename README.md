@@ -82,8 +82,6 @@ Developed by: Hezron Belix P
 
 RegisterNumber: 212223230078
 
-**Logic symbol & Truthtable**
-
 **RTL realization Output:** 
 ![313208298-4c8d8213-3cd5-4a15-a097-e5407ba84efa](https://github.com/Hezron-lix/study-of-basic-gates/assets/139331337/26dc115e-6721-4be3-a1f1-8968f45b5998)
 
